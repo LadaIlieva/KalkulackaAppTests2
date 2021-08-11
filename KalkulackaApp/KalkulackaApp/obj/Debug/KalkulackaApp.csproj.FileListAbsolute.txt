@@ -1,0 +1,7 @@
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\bin\Debug\KalkulackaApp.exe.config
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\bin\Debug\KalkulackaApp.exe
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\bin\Debug\KalkulackaApp.pdb
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\obj\Debug\KalkulackaApp.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\obj\Debug\KalkulackaApp.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\obj\Debug\KalkulackaApp.exe
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaApp\obj\Debug\KalkulackaApp.pdb

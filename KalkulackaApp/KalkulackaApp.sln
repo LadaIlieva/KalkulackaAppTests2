@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulackaApp", "KalkulackaApp\KalkulackaApp.csproj", "{F7ED416C-DB81-4993-A853-7059B60F5FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulackaAppTests", "KalkulackaAppTests\KalkulackaAppTests.csproj", "{683A56F9-B433-425B-8A1D-AB52889F4845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ED416C-DB81-4993-A853-7059B60F5FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ED416C-DB81-4993-A853-7059B60F5FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ED416C-DB81-4993-A853-7059B60F5FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ED416C-DB81-4993-A853-7059B60F5FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683A56F9-B433-425B-8A1D-AB52889F4845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683A56F9-B433-425B-8A1D-AB52889F4845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683A56F9-B433-425B-8A1D-AB52889F4845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683A56F9-B433-425B-8A1D-AB52889F4845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B9AE85-5254-48D7-BB01-3D850B9A3709}
+	EndGlobalSection
+EndGlobal

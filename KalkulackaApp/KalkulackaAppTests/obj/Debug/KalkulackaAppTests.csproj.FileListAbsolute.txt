@@ -1,0 +1,17 @@
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\KalkulackaAppTests.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\KalkulackaAppTests.pdb
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\KalkulackaApp.exe
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\KalkulackaApp.pdb
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\KalkulackaApp.exe.config
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\obj\Debug\KalkulackaAppTests.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\obj\Debug\KalkulackaAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\obj\Debug\KalkulackaAppTests.csproj.CopyComplete
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\obj\Debug\KalkulackaAppTests.dll
+C:\Users\Ladili\Desktop\C#2\KalkulackaApp\KalkulackaApp\KalkulackaAppTests\obj\Debug\KalkulackaAppTests.pdb
